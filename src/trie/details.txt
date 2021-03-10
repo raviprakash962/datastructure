@@ -1,0 +1,20 @@
+Trie is a search tree which is typically used to store and search strings in space/time efficient way.
+
+In it any node can store non repetative multiple characters
+Also every node stores link of next characters of the string
+Also every node keeps a track of end of string.
+
+ Why learn Trie
+ 
+ 1. Used to solve the many standard problem in efficient ways
+  like :-  Spelling Checker
+           Auto Complete String   etc 
+           
+           Map  having char and trie node also it has end of word flag.
+           
+           
+           4 standard operation 
+           1. create 
+           2. insert
+           3. delete
+           4. search  
